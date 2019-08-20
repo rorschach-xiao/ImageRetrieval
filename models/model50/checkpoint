@@ -1,0 +1,2 @@
+model_checkpoint_path: "MetricNet.ckpt-5"
+all_model_checkpoint_paths: "MetricNet.ckpt-5"
